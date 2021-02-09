@@ -2,11 +2,11 @@
 
 # Demo Code for Dissecting Rails 6
 
-- [ ] Rails new
-- [ ] File system
-- [ ] Rails server
-- [ ] Homepage with controller generator
-- [ ] Authentication with Devise
+- [x] Rails new
+- [x] File system
+- [x] Rails server
+- [x] Homepage with controller generator
+- [x] Authentication with Devise
 - [ ] Protecting routes with `authenticate_user!`
 - [ ] Model generator for Topic
 - [ ] Scaffold generator for Guide
